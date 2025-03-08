@@ -17,8 +17,10 @@ const texts = [
     "Red Teamer",
     "Penetration Tester",
     "Malware Developer",
-    "Binary Exploiter",
-    "Threat Hunter"
+    "Exploit Developer",
+    "Reverse Engineer",
+    "Bug Hunter",
+    "Low-Level Programmer"
 ];
 
 let speed = 100;
