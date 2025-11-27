@@ -16,11 +16,9 @@ function cancel() {
 const texts = [
     "Red Teamer",
     "Penetration Tester",
-    "Malware Developer",
     "Exploit Developer",
-    "Reverse Engineer",
     "Bug Hunter",
-    "Low-Level Programmer"
+    "Offensive Security Engineer"
 ];
 
 let speed = 100;
